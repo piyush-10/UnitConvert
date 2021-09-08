@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UnitConvert</string>
+    <string name="submit">submit</string>
+    <string name="enter_the_value_to_convert">Enter the value to convert</string>
+</resources>
